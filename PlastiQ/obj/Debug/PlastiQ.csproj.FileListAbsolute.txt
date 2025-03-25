@@ -1,0 +1,24 @@
+c:\users\akarpey\documents\visual studio 2015\Projects\PlastiQ\PlastiQ\bin\Debug\PlastiQ.exe.config
+c:\users\akarpey\documents\visual studio 2015\Projects\PlastiQ\PlastiQ\bin\Debug\PlastiQ.exe
+c:\users\akarpey\documents\visual studio 2015\Projects\PlastiQ\PlastiQ\bin\Debug\PlastiQ.pdb
+c:\users\akarpey\documents\visual studio 2015\Projects\PlastiQ\PlastiQ\obj\Debug\PlastiQ.csprojResolveAssemblyReference.cache
+c:\users\akarpey\documents\visual studio 2015\Projects\PlastiQ\PlastiQ\obj\Debug\PlastiQ.exe
+c:\users\akarpey\documents\visual studio 2015\Projects\PlastiQ\PlastiQ\obj\Debug\PlastiQ.pdb
+c:\users\akarpey\documents\visual studio 2015\Projects\PlastiQ\PlastiQ\obj\Debug\PlastiQ.csproj.ResolveComReference.cache
+C:\Users\AKarpey\Desktop\PlastiQ\PlastiQ\obj\Debug\PlastiQ.csproj.AssemblyReference.cache
+C:\Users\AKarpey\Desktop\PlastiQ\PlastiQ\obj\Debug\PlastiQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\AKarpey\Desktop\PlastiQ\PlastiQ\obj\Debug\PlastiQ.exe
+C:\Users\AKarpey\Desktop\PlastiQ\PlastiQ\obj\Debug\PlastiQ.pdb
+C:\Users\AAVolosatova\Desktop\PlastiQ\PlastiQ\bin\Debug\PlastiQ.exe.config
+C:\Users\AAVolosatova\Desktop\PlastiQ\PlastiQ\bin\Debug\PlastiQ.exe
+C:\Users\AAVolosatova\Desktop\PlastiQ\PlastiQ\bin\Debug\PlastiQ.pdb
+C:\Users\AAVolosatova\Desktop\PlastiQ\PlastiQ\obj\Debug\PlastiQ.csproj.AssemblyReference.cache
+C:\Users\AAVolosatova\Desktop\PlastiQ\PlastiQ\obj\Debug\PlastiQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\AAVolosatova\Desktop\PlastiQ\PlastiQ\obj\Debug\PlastiQ.csproj.ResolveComReference.cache
+C:\Users\AAVolosatova\Desktop\PlastiQ\PlastiQ\obj\Debug\PlastiQ.csproj.CoreCompileInputs.cache
+C:\Users\AAVolosatova\Desktop\PlastiQ\PlastiQ\obj\Debug\PlastiQ.exe
+C:\Users\AAVolosatova\Desktop\PlastiQ\PlastiQ\obj\Debug\PlastiQ.pdb
+C:\Users\AAVolosatova\Desktop\PlastiQ\PlastiQ\bin\Debug\PlastiQ.exe.manifest
+C:\Users\AAVolosatova\Desktop\PlastiQ\PlastiQ\bin\Debug\PlastiQ.application
+C:\Users\AAVolosatova\Desktop\PlastiQ\PlastiQ\obj\Debug\PlastiQ.exe.manifest
+C:\Users\AAVolosatova\Desktop\PlastiQ\PlastiQ\obj\Debug\PlastiQ.application

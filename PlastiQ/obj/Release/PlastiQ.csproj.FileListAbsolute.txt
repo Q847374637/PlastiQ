@@ -1,0 +1,20 @@
+C:\Users\AKarpey\documents\visual studio 2015\Projects\PlastiQ\PlastiQ\bin\Release\PlastiQ.exe.config
+C:\Users\AKarpey\documents\visual studio 2015\Projects\PlastiQ\PlastiQ\obj\Release\PlastiQ.csproj.ResolveComReference.cache
+C:\Users\AKarpey\documents\visual studio 2015\Projects\PlastiQ\PlastiQ\bin\Release\PlastiQ.exe
+C:\Users\AKarpey\documents\visual studio 2015\Projects\PlastiQ\PlastiQ\bin\Release\PlastiQ.pdb
+C:\Users\AKarpey\documents\visual studio 2015\Projects\PlastiQ\PlastiQ\obj\Release\PlastiQ.exe
+C:\Users\AKarpey\documents\visual studio 2015\Projects\PlastiQ\PlastiQ\obj\Release\PlastiQ.pdb
+C:\Users\AKarpey\documents\visual studio 2015\Projects\PlastiQ\PlastiQ\obj\Release\PlastiQ.csprojResolveAssemblyReference.cache
+C:\Users\AAVolosatova\Desktop\PlastiQ\PlastiQ\obj\Release\PlastiQ.csproj.AssemblyReference.cache
+C:\Users\AAVolosatova\Desktop\PlastiQ\PlastiQ\obj\Release\PlastiQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\AAVolosatova\Desktop\PlastiQ\PlastiQ\obj\Release\PlastiQ.exe
+C:\Users\AAVolosatova\Desktop\PlastiQ\PlastiQ\obj\Release\PlastiQ.pdb
+C:\Users\AAVolosatova\Desktop\PlastiQ\PlastiQ\obj\Release\PlastiQ.csproj.ResolveComReference.cache
+C:\Users\AAVolosatova\Desktop\PlastiQ\PlastiQ\obj\Release\PlastiQ.csproj.CoreCompileInputs.cache
+C:\Users\AAVolosatova\Desktop\PlastiQ\PlastiQ\bin\Release\PlastiQ.exe.config
+C:\Users\AAVolosatova\Desktop\PlastiQ\PlastiQ\bin\Release\PlastiQ.exe
+C:\Users\AAVolosatova\Desktop\PlastiQ\PlastiQ\bin\Release\PlastiQ.pdb
+C:\Users\AAVolosatova\Desktop\PlastiQ\PlastiQ\bin\Release\PlastiQ.exe.manifest
+C:\Users\AAVolosatova\Desktop\PlastiQ\PlastiQ\bin\Release\PlastiQ.application
+C:\Users\AAVolosatova\Desktop\PlastiQ\PlastiQ\obj\Release\PlastiQ.exe.manifest
+C:\Users\AAVolosatova\Desktop\PlastiQ\PlastiQ\obj\Release\PlastiQ.application

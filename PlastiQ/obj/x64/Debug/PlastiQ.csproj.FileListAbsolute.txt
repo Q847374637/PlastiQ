@@ -1,0 +1,23 @@
+C:\Users\AKarpey\documents\visual studio 2015\Projects\PlastiQ\PlastiQ\bin\x64\Debug\PlastiQ.exe.config
+C:\Users\AKarpey\documents\visual studio 2015\Projects\PlastiQ\PlastiQ\obj\x64\Debug\PlastiQ.csproj.ResolveComReference.cache
+C:\Users\AKarpey\documents\visual studio 2015\Projects\PlastiQ\PlastiQ\bin\x64\Debug\PlastiQ.exe
+C:\Users\AKarpey\documents\visual studio 2015\Projects\PlastiQ\PlastiQ\bin\x64\Debug\PlastiQ.pdb
+C:\Users\AKarpey\documents\visual studio 2015\Projects\PlastiQ\PlastiQ\obj\x64\Debug\PlastiQ.exe
+C:\Users\AKarpey\documents\visual studio 2015\Projects\PlastiQ\PlastiQ\obj\x64\Debug\PlastiQ.pdb
+C:\Users\AKarpey\documents\visual studio 2015\Projects\PlastiQ\PlastiQ\obj\x64\Debug\PlastiQ.csprojResolveAssemblyReference.cache
+C:\Users\AAVolosatova\Desktop\PlastiQ\PlastiQ\bin\x64\Debug\PlastiQ.exe.config
+C:\Users\AAVolosatova\Desktop\PlastiQ\PlastiQ\bin\x64\Debug\PlastiQ.exe.manifest
+C:\Users\AAVolosatova\Desktop\PlastiQ\PlastiQ\bin\x64\Debug\PlastiQ.application
+C:\Users\AAVolosatova\Desktop\PlastiQ\PlastiQ\bin\x64\Debug\PlastiQ.exe
+C:\Users\AAVolosatova\Desktop\PlastiQ\PlastiQ\bin\x64\Debug\PlastiQ.pdb
+C:\Users\AAVolosatova\Desktop\PlastiQ\PlastiQ\obj\x64\Debug\PlastiQ.csproj.AssemblyReference.cache
+C:\Users\AAVolosatova\Desktop\PlastiQ\PlastiQ\obj\x64\Debug\PlastiQ.csproj.ResolveComReference.cache
+C:\Users\AAVolosatova\Desktop\PlastiQ\PlastiQ\obj\x64\Debug\PlastiQ.csproj.CoreCompileInputs.cache
+C:\Users\AAVolosatova\Desktop\PlastiQ\PlastiQ\obj\x64\Debug\PlastiQ.exe.manifest
+C:\Users\AAVolosatova\Desktop\PlastiQ\PlastiQ\obj\x64\Debug\PlastiQ.application
+C:\Users\AAVolosatova\Desktop\PlastiQ\PlastiQ\obj\x64\Debug\PlastiQ.exe
+C:\Users\AAVolosatova\Desktop\PlastiQ\PlastiQ\obj\x64\Debug\PlastiQ.pdb
+S:\Exchange\-\PlastiQ\PlastiQ\bin\x64\Debug\PlastiQ.exe.config
+S:\Exchange\-\PlastiQ\PlastiQ\obj\x64\Debug\PlastiQ.csproj.ResolveComReference.cache
+S:\Exchange\-\PlastiQ\PlastiQ\obj\x64\Debug\PlastiQ.exe
+S:\Exchange\-\PlastiQ\PlastiQ\obj\x64\Debug\PlastiQ.pdb
